@@ -1,2 +1,2 @@
 # hello-world
-just have atry
+just have a try
